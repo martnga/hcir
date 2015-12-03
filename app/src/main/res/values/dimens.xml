@@ -1,6 +1,6 @@
 <resources>
-    <dimen name="name">17dp</dimen>
-    <dimen name="worth">15dip</dimen>
-    <dimen name="source">13dip</dimen>
-    <dimen name="InYear">12dip</dimen>
+    <dimen name="name">17sp</dimen>
+    <dimen name="worth">15sp</dimen>
+    <dimen name="source">13sp</dimen>
+    <dimen name="InYear">12sp</dimen>
 </resources>
